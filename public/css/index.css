@@ -53,7 +53,7 @@ html {
 	overflow-y: scroll;
 }
 body {
-	max-width: 40em;
+	max-width: 80em;
 }
 
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */
@@ -99,10 +99,22 @@ main :first-child {
 header {
 	border-bottom: 1px dashed var(--color-gray-20);
 }
-header:after {
+header:after, footer:before {
 	content: "";
 	display: table;
 	clear: both;
+}
+
+footer {
+	border-top: 1px dashed var(--color-gray-20);
+	padding-bottom: 1em;
+}
+
+footer p {
+  font-style: italic;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
 
 .links-nextprev {

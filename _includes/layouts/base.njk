@@ -11,7 +11,7 @@
 		<link rel="alternate" href="/feed/feed.json" type="application/json" title="{{ metadata.title }}">
 
 		{#- Uncomment this if you’d like folks to know that you used Eleventy to build your site!  #}
-		{#- <meta name="generator" content="{{ eleventy.generator }}"> #}
+		<meta name="generator" content="{{ eleventy.generator }}">
 
 		{#-
 		CSS bundles are provided via the `eleventy-plugin-bundle` plugin:
@@ -54,7 +54,10 @@
 			{{ content | safe }}
 		</main>
 
-		<footer></footer>
+		<footer>
+		<p>Alt innholdet er laget med kjærlighet av, og er dermed åndsverket til, Espen Wiborg.</p>
+		<p>Lenk gjerne til det, men ikke stjel det, er du snill!</p>
+		</footer>
 
 		<!-- Current page: {{ page.url | htmlBaseUrl }} -->
 	</body>
