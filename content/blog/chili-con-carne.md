@@ -37,7 +37,7 @@ Som vanlig er målene under ca.-mål, men de er et utgangspunkt.  Smak deg frem 
 * 1 ts spisskummen
 * 1 boks øl (med mye smak). Du trenger ca. 3 dl - resten kan gå i kokken!  Eller du kan bruke vann, hvis du er kjedelig.
 * 2 ss tomatpuré
-* 1 ss Worcestershire-saus
+* 1 ss [Worcestershire-saus](worcestershire-saus.md)
 * 1 ts meksikansk oregano (vanlig oregano funker, men er ikke helt det samme)
 * 1 ts kakaonibs ELLER 20g kokesjokolade
 * 2 bokser à 400g bønner (velg noen du liker - gjerne med chilisaus, men det er ikke viktig)
@@ -60,8 +60,8 @@ minutter.  Så har du i hvitløk og spisskummen, og steker videre i ett minutts 
 Du vil se at det sitter litt stekeskorpe i bunnen av gryta; hell på litt øl og kok dette ut mens du skraper med en sleiv
 e.l.  Spe med mer øl om nødvendig.
 
-Nå skal vi ha i tomatpuré, Worcestershire-saus, oregano og kakaonibs (eller sjokolade); rør godt rundt og la det putre
-litt.  Hell på mer øl og la det koke litt inn.
+Nå skal vi ha i tomatpuré, [Worcestershire-saus](worcestershire-saus.md), oregano og kakaonibs (eller sjokolade); rør
+godt rundt og la det putre litt.  Hell på mer øl og la det koke litt inn.
 
 Til slutt heller du oppi bønner og mais, og rører rundt.  Hvis chilien virker for tykk, ha i mer øl.
 
