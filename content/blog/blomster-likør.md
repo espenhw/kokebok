@@ -26,17 +26,19 @@ Det er lurt å smake på noen blomster; smaker de bittert bør du nok ikke bruke
 
 ## Slik gjør du:
 
+Vi skal lage en spritinfusjon og en sukkerlake, og så kombinere de to.  Prosessen tar tre døgn.
+
 ### Spritinfusjon:
 
 Plukk blomster; fjern så mye du kan som ikke er kronblader (dvs. alt som er grønt).  Dersom de er støvete kan du dyppe dem forsiktig i kaldt vann og legge dem på kjøkkenpapir for å tørke.
 
 Legg blomstene i et Norgesglass e.l., og hell på spriten.  Rist forsiktig, og dytt eventuelt forsiktig på blomstene så de er dekket. La dette stå i romtemperatur i ca. seks timer; rist forsiktig underveis hvis du gidder.  Sil så vekk blomstene.
 
-Gjenta dette tre eller flere ganger, til du er fornøyd med smak og farge.
+Gjenta dette tre eller flere ganger med nye blomster, til du er fornøyd med smak og farge.
 
 Har du ikke sitronolje, men vil ha litt sitronpreg på likøren, skreller du en stripe sitronskall (få med så lite av det hvite underskallet som mulig) og har det oppi sammen med blomstene en av sekstimers-rundene.
 
-Tips:  Når du smaker på sterk infusert sprit, ta en teskje eller så i et glass og bland med en spiseskje kaldt vann.  Dette frigjør aromamolekylene, og tynner ut spriten så ikke luktreseptorene lammes av alkoholdunst.
+Tips:  Når du smaker på sterk infusert sprit, ta en teskje eller så i et glass og bland med en spiseskje kaldt vann.  Dette frigjør aromamolekylene, og tynner ut spriten så ikke luktreseptorene dine lammes av alkoholdunst.
 
 ### Sukkerlake:
 
