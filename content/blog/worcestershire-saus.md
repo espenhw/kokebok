@@ -57,4 +57,6 @@ Dette glasset setter du i kjøleskapet i tre uker.  Rist litt på det innimellom
 Etter tre uker siler du guffa; er du skikkelig petimeter filtrerer du det gjennom et kaffefilter til slutt, men det tar
 **evigheter**.
 
+## Lagring:
+
 Den ferdige sausen er holdbar i kjøleskap i et års tid.
