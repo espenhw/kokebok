@@ -32,7 +32,7 @@ Som vanlig er målene under ca.-mål, men de er et utgangspunkt.  Smak deg frem 
 * 1 løk (helst rød, men gul funker fint)
 * 1 gulrot
 * 2-3 fedd hvitløk
-* 400-500 gram kjøttdeig
+* 400-500 g kjøttdeig
 * litt olje til steking
 * 1 ts spisskummen
 * 1 boks øl (med mye smak). Du trenger ca. 3 dl - resten kan gå i kokken!  Eller du kan bruke vann, hvis du er kjedelig.

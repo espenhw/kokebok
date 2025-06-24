@@ -20,8 +20,8 @@ Det er lurt å smake på noen blomster; smaker de bittert bør du nok ikke bruke
 ## Du trenger:
 
 * Blomster 
-* Ca. 350ml 60% sprit
-* 250g hvitt sukker
+* Ca. 350 ml 60% sprit
+* 250 g hvitt sukker
 * Litt sitronolje (valgfritt, men det gjør resultatet friskere - alternativt går det an å ha litt sitronskall i, se under)
 
 ## Slik gjør du:
@@ -50,9 +50,9 @@ Neste dag koker du opp igjen, lar det småkoke i fem minutter, og kjøler det ne
 
 ### Likør:
 
-Mål opp hvor mye infusert sprit du endte opp med.  Bruk så [denne kalkulatoren](https://hobbybrennen.ch/Rechner/en/LiqueurCalculator.html) til å regne ut hvor mye sukkerlake og eventuelt vann du må tilsette for å nå et alkoholinnhold på ca. 26-30% og et sukkerinnhold på ca. 220-250g/L.
+Mål opp hvor mye infusert sprit du endte opp med.  Bruk så [denne kalkulatoren](https://hobbybrennen.ch/Rechner/en/LiqueurCalculator.html) til å regne ut hvor mye sukkerlake og eventuelt vann du må tilsette for å nå et alkoholinnhold på ca. 26-30% og et sukkerinnhold på ca. 220-250 g/L.
 
-Som et eksempel, da jeg lagde kaprifollikør sommeren 2025 endte jeg opp med 300ml sprit; med 300g sukkerlake og 100ml vann endte jeg på 28% ABV og 234g/L sukker, som passer min gane.  Eventuell sukkerlake du ender opp med til overs kan f.eks. brukes på pannekaker.
+Som et eksempel, da jeg lagde kaprifollikør sommeren 2025 endte jeg opp med 300 ml sprit; med 300 g sukkerlake og 100 ml vann endte jeg på 28% ABV og 234 g/L sukker, som passer min gane.  Eventuell sukkerlake du ender opp med til overs kan f.eks. brukes på pannekaker.
 
 Dette må blandes godt! Har du en magnetrører er den perfekt å bruke her; har du ikke det, heller du spriten og sukkerlaken på en flaske og rister livskiten utav det.
 
@@ -62,4 +62,4 @@ Og så, det vanskeligste:  Likøren har godt av litt modningstid.  Smaken vil se
 
 ## Lagring:
 
-Så lenge du har holdt alkoholinnholdet over 22% og sukkerinnholdet over 200g/L bør denne likøren være tilnærmet ubegrenset holdbar.  Den vil misfarges over tid, spesielt hvis den utsettes for lys; for å forsinke denne prosessen bør du ha den på en farget flaske, eller oppbevare den mørkt.
+Så lenge du har holdt alkoholinnholdet over 22% og sukkerinnholdet over 200 g/L bør denne likøren være tilnærmet ubegrenset holdbar.  Den vil misfarges over tid, spesielt hvis den utsettes for lys; for å forsinke denne prosessen bør du ha den på en farget flaske, eller oppbevare den mørkt.

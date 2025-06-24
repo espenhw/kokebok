@@ -23,16 +23,16 @@ lett modifisert.  Den tar lang tid, men er verdt strevet.
 * 30 ml (2 ss) tamarindkonsentrat (kjøpt eller [hjemmelaget](https://showmethecurry.com/odds-ends/homemade-tamarind-concentrate-paste.html))
 * 2 ss gule sennepsfrø
 * 1 ss salt
-* 1/2 ts hele pepperkorn
-* 1/2 ts hel nellik
-* 1/4 ts currypulver (velg styrkegrad selv)
+* &half; ts hele pepperkorn
+* &half; ts hel nellik
+* &frac14; ts currypulver (velg styrkegrad selv)
 * 3 grønne kardemommepods
 * 2 chiles de arbol (kan sløyfes, eller halveres)
 * 2 fedd hvitløk
 * 3 ss thailandsk fiskesaus
-* 1/2 gul løk
+* &half; gul løk
 * drøyt to cm fersk ingefær
-* 1/2 kanelstang
+* &half; kanelstang
 * 60 ml (4 ss) sukker
 
 ## Slik gjør du:

@@ -15,10 +15,10 @@ Oppskriften her ender opp med ca. 1,2 liter likør som holder 30% alkohol, og in
 
 ## Du trenger:
 
-* 75g ren lakris (jeg har brukt [denne](https://mecindo.no/lakrids-smaa-sorte-75g-no))
-* 385ml vann
-* 332g sukker
-* 600ml 60% sprit
+* 75 g ren lakris (jeg har brukt [denne](https://mecindo.no/lakrids-smaa-sorte-75g-no))
+* 385 ml vann
+* 332 g sukker
+* 600 ml 60% sprit
 * Salmiakksalt (hvis du vil ha salmiakksmak - jeg anbefaler i så fall å lage halvparten med, halvparten uten)
 
 ## Slik gjør du:
