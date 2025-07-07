@@ -1,6 +1,6 @@
 ---
 title: Syltet rødløk
-date: 2025-06-24
+date: 2025-07-07
 tags:
   - meksikansk
 ---
