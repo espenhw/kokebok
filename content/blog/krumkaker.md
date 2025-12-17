@@ -7,7 +7,12 @@ tags:
 ---
 # Krumkaker
 
-Denne oppskriften har jeg stjålet fra Henriette Schønberg Erkens *Stor kokebok for større og mindre husholdninger*; der er den selvsagt ikke glutenfri, og inneholder heller ikke konjakk.
+Det er ikke mange ting jeg har arvet etter min farmor, Ellen. Men en av dem er svært viktig: Henriette Schønberg 
+Erkens *Stor kokebok for større og mindre husholdninger, Tiende økede utgave* (1932) &mdash; sannsynligvis arv etter 
+hennes mor igjen.
+
+Derfra har jeg stjålet denne oppskriften (Krumkaker III); hos Schønberg Erken er den selvsagt ikke glutenfri, og 
+inneholder heller ikke konjakk.
 
 ## Du trenger:
 
